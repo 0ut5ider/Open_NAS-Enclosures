@@ -1,2 +1,8 @@
 # SFF connector part number
+Digikey part number
+https://www.digikey.com/product-detail/en/molex/0757830132/WM1118TR-ND/1089634
+OR
+https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1888019-2/A116222CT-ND/4569826
+
+[Source]
 https://forums.servethehome.com/index.php?threads/looking-for-connector-part-number-and-name.27085/#post-249894

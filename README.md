@@ -1,9 +1,18 @@
-# DIY-NAS
+# Open_NAS-Enclosures
 Open Source NAS hardware
 
-Specs and designs for a DIY, modular NAS architecture.
+Specs and designs for a DIY, modular NAS enclosures.
 
-## Requirements
+## Step 1
+Create 3D printed enclosures to hold multiple HDDs 
+
+## Step 2
+Incorporate existing backplanes into the 3d printed enclosures
+Backplanes like SuperMicro SATA743 or SATA823 or SATA836
+
+## Step 3
+Create a DIY backplane for various drive configurations
+
 The design requires on PCB onto which are 4 x SATA board connectors on one side of the PCB, and the other side of the PCB will have 1 x SFF-8087 connector and one Molex PATA 4 pin power connector.
 
 The power connector should be a 90 deg connector and should be thru-hole mounted.

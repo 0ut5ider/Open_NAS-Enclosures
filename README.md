@@ -7,7 +7,7 @@ Specs and designs for a DIY, modular NAS enclosures.
 Create 3D printed enclosures to hold multiple HDDs 
 
 ## Goal 2
-Incorporate existing backplanes into the 3d printed enclosures
+Incorporate existing backplanes into the 3d printed enclosures.
 Backplanes like SuperMicro SATA743 or SATA823 or SATA836
 
 ## Goal 3
